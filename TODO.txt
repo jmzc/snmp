@@ -1,0 +1,9 @@
+
+##########
+## TODO ##
+##########
+
+- Crear una clase factoría que abstraiga la implementación 
+- Definir excepciones más expecíficas
+- Definir POM
+- Crear documentación de los métodos de la interfaz y un manual de uso 
